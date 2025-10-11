@@ -6,7 +6,8 @@
 }
 
 body {
-    font-family: Poppins;
+    /* Para que todo el cuerpo tenga este estilo de letra*/
+    font-family: Poppins; 
 }
 
 main {
@@ -75,5 +76,6 @@ input {
 }
 
 section:last-child > form > p {
+    /*para que la letra byclickng tenga el color deseado*/
     color: hsl(249, 10%, 26%) ;
 }
